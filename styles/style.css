@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.gridContainer{
+    margin: 50px auto;
+    background-color: white;
+    border: 1px solid black;
+    width: 640px;
+    height: 640px;
+    display: grid;
+}
+
+.gridElement{
+    background-color: rgb(240, 232, 232);
+}
+
